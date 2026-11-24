@@ -1,0 +1,1 @@
+{"description":"Break Production, Own It — a brutally honest one-line error message from the AI agent that broke production. make.fun bounty entry.","engines":{"node":">=22"},"license":"MIT","name":"break-production-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
